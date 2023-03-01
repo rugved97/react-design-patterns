@@ -312,3 +312,4 @@ state container like "redux".
 ## Poll
 
 [Full article on poll pattern](doc/poll-pattern.md)
+# react-design-patterns
